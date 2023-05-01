@@ -1,0 +1,47 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  display: grid;
+  justify-content: center;
+  background-color: #f9db6d;
+  font-family: sans-serif;
+}
+.container {
+  margin-top: 30px;
+  width: 700px;
+
+  display: grid;
+  justify-content: center;
+  text-align: center;
+}
+
+.container-1 {
+  width: 700px;
+
+  display: grid;
+  justify-content: center;
+  text-align: center;
+}
+
+h1 {
+  font-size: 55px;
+}
+
+.input-num {
+  margin-top: 20px;
+  font-size: 30px;
+  border-radius: 10px;
+}
+h4 {
+  font-size: 30px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.facts {
+  font-size: 30px;
+}
